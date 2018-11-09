@@ -1,0 +1,6 @@
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
