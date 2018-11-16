@@ -1,0 +1,7 @@
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_ExpensiveAsset\bin\Debug\Linq_ExpensiveAsset.exe.config
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_ExpensiveAsset\bin\Debug\Linq_ExpensiveAsset.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_ExpensiveAsset\bin\Debug\Linq_ExpensiveAsset.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_ExpensiveAsset\obj\Debug\Linq_ExpensiveAsset.csprojResolveAssemblyReference.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_ExpensiveAsset\obj\Debug\Linq_ExpensiveAsset.csproj.CoreCompileInputs.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_ExpensiveAsset\obj\Debug\Linq_ExpensiveAsset.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_ExpensiveAsset\obj\Debug\Linq_ExpensiveAsset.pdb

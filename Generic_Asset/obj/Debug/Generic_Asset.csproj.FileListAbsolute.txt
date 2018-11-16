@@ -1,0 +1,7 @@
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Generic_Asset\obj\Debug\Generic_Asset.csprojResolveAssemblyReference.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Generic_Asset\obj\Debug\Generic_Asset.csproj.CoreCompileInputs.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Generic_Asset\bin\Debug\Generic_Asset.exe.config
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Generic_Asset\bin\Debug\Generic_Asset.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Generic_Asset\bin\Debug\Generic_Asset.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Generic_Asset\obj\Debug\Generic_Asset.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Generic_Asset\obj\Debug\Generic_Asset.pdb

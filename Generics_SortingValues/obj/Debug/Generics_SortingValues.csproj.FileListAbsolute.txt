@@ -1,0 +1,7 @@
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Generics_SortingValues\bin\Debug\Generics_SortingValues.exe.config
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Generics_SortingValues\bin\Debug\Generics_SortingValues.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Generics_SortingValues\bin\Debug\Generics_SortingValues.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Generics_SortingValues\obj\Debug\Generics_SortingValues.csprojResolveAssemblyReference.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Generics_SortingValues\obj\Debug\Generics_SortingValues.csproj.CoreCompileInputs.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Generics_SortingValues\obj\Debug\Generics_SortingValues.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Generics_SortingValues\obj\Debug\Generics_SortingValues.pdb

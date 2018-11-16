@@ -4,3 +4,4 @@ C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_ProdSupp\bin\Debug\FileIO_ProdSup
 C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_ProdSupp\obj\Debug\FileIO_ProdSupp.csproj.CoreCompileInputs.cache
 C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_ProdSupp\obj\Debug\FileIO_ProdSupp.exe
 C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_ProdSupp\obj\Debug\FileIO_ProdSupp.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_ProdSupp\obj\Debug\FileIO_ProdSupp.csprojResolveAssemblyReference.cache

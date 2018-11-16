@@ -1,0 +1,7 @@
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_AssetCount\bin\Debug\Linq_AssetCount.exe.config
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_AssetCount\bin\Debug\Linq_AssetCount.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_AssetCount\bin\Debug\Linq_AssetCount.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_AssetCount\obj\Debug\Linq_AssetCount.csprojResolveAssemblyReference.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_AssetCount\obj\Debug\Linq_AssetCount.csproj.CoreCompileInputs.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_AssetCount\obj\Debug\Linq_AssetCount.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_AssetCount\obj\Debug\Linq_AssetCount.pdb

@@ -1,0 +1,7 @@
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_ProductOfSuppliers\bin\Debug\FileIO_ProductOfSuppliers.exe.config
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_ProductOfSuppliers\bin\Debug\FileIO_ProductOfSuppliers.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_ProductOfSuppliers\bin\Debug\FileIO_ProductOfSuppliers.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_ProductOfSuppliers\obj\Debug\FileIO_ProductOfSuppliers.csprojResolveAssemblyReference.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_ProductOfSuppliers\obj\Debug\FileIO_ProductOfSuppliers.csproj.CoreCompileInputs.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_ProductOfSuppliers\obj\Debug\FileIO_ProductOfSuppliers.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_ProductOfSuppliers\obj\Debug\FileIO_ProductOfSuppliers.pdb

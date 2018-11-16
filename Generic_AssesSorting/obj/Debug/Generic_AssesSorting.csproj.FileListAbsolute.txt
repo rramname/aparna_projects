@@ -1,0 +1,6 @@
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Generic_AssesSorting\bin\Debug\Generic_AssesSorting.exe.config
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Generic_AssesSorting\bin\Debug\Generic_AssesSorting.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Generic_AssesSorting\bin\Debug\Generic_AssesSorting.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Generic_AssesSorting\obj\Debug\Generic_AssesSorting.csproj.CoreCompileInputs.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Generic_AssesSorting\obj\Debug\Generic_AssesSorting.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Generic_AssesSorting\obj\Debug\Generic_AssesSorting.pdb

@@ -56,11 +56,11 @@ namespace FileIO_ProdSupp
 
             suppliers.Sort();
 
-            using (StreamWriter outputFile = new StreamWriter("output.txt"))
+            using (StreamWriter outputFile = new StreamWriter("output.txt",false,Encoding.Unicode))
             {
                 foreach (Supplier s in suppliers)
                 {
-                    outputFile.WriteLine("|" + s.Name + "|" + s.Address+"|");
+                    outputFile.WriteLine("|" + s.Name + "|" + s.Address+"|".Trim());
                     
                     foreach (Asset a in s._assetList)
                     {

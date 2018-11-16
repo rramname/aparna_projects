@@ -1,0 +1,7 @@
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_AssetRemove\bin\Debug\Linq_AssetRemove.exe.config
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_AssetRemove\bin\Debug\Linq_AssetRemove.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_AssetRemove\bin\Debug\Linq_AssetRemove.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_AssetRemove\obj\Debug\Linq_AssetRemove.csprojResolveAssemblyReference.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_AssetRemove\obj\Debug\Linq_AssetRemove.csproj.CoreCompileInputs.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_AssetRemove\obj\Debug\Linq_AssetRemove.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_AssetRemove\obj\Debug\Linq_AssetRemove.pdb
