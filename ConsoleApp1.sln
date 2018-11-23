@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIO_ProductOfSuppliers",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedParams_DisplayAssetBasedOnDate", "NamedParams_DisplayAssetBasedOnDate\NamedParams_DisplayAssetBasedOnDate.csproj", "{43277D3E-59C9-4B9A-8347-8819C717C4D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO_1_AssetStatus", "ADO_1_AssetStatus\ADO_1_AssetStatus.csproj", "{C74A0138-ED81-48F1-926B-3B7DE410C037}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO_2_User-Role", "ADO_2_User-Role\ADO_2_User-Role.csproj", "{EE9DA6B6-A8BD-4031-816B-A64A41F2654C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{43277D3E-59C9-4B9A-8347-8819C717C4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43277D3E-59C9-4B9A-8347-8819C717C4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43277D3E-59C9-4B9A-8347-8819C717C4D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C74A0138-ED81-48F1-926B-3B7DE410C037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74A0138-ED81-48F1-926B-3B7DE410C037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74A0138-ED81-48F1-926B-3B7DE410C037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74A0138-ED81-48F1-926B-3B7DE410C037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE9DA6B6-A8BD-4031-816B-A64A41F2654C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE9DA6B6-A8BD-4031-816B-A64A41F2654C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE9DA6B6-A8BD-4031-816B-A64A41F2654C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE9DA6B6-A8BD-4031-816B-A64A41F2654C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

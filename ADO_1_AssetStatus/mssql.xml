@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<mssql>
+  <username>sa</username>
+  <password>password</password>
+  <host>localhost</host>
+  <port>1433</port>
+  <schema>AssetManagement</schema>
+</mssql>
