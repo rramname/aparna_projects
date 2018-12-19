@@ -1,0 +1,2 @@
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_CC_Exceptions\obj\Debug\ADO_CC_Exceptions.csprojAssemblyReference.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_CC_Exceptions\obj\Debug\ADO_CC_Exceptions.csproj.CoreCompileInputs.cache

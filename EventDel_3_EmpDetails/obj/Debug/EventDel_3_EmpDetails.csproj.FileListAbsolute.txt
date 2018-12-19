@@ -1,0 +1,6 @@
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_3_EmpDetails\bin\Debug\EventDel_3_EmpDetails.exe.config
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_3_EmpDetails\bin\Debug\EventDel_3_EmpDetails.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_3_EmpDetails\bin\Debug\EventDel_3_EmpDetails.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_3_EmpDetails\obj\Debug\EventDel_3_EmpDetails.csproj.CoreCompileInputs.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_3_EmpDetails\obj\Debug\EventDel_3_EmpDetails.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_3_EmpDetails\obj\Debug\EventDel_3_EmpDetails.pdb

@@ -1,0 +1,6 @@
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_1_ValuableAsset\bin\Debug\EventDel_1_ValuableAsset.exe.config
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_1_ValuableAsset\bin\Debug\EventDel_1_ValuableAsset.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_1_ValuableAsset\bin\Debug\EventDel_1_ValuableAsset.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_1_ValuableAsset\obj\Debug\EventDel_1_ValuableAsset.csproj.CoreCompileInputs.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_1_ValuableAsset\obj\Debug\EventDel_1_ValuableAsset.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_1_ValuableAsset\obj\Debug\EventDel_1_ValuableAsset.pdb

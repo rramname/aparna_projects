@@ -1,0 +1,6 @@
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_Errors_PrimaryKey_1\bin\Debug\ADO_Errors_PrimaryKey_1.exe.config
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_Errors_PrimaryKey_1\bin\Debug\ADO_Errors_PrimaryKey_1.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_Errors_PrimaryKey_1\bin\Debug\ADO_Errors_PrimaryKey_1.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_Errors_PrimaryKey_1\obj\Debug\ADO_Errors_PrimaryKey_2.csproj.CoreCompileInputs.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_Errors_PrimaryKey_1\obj\Debug\ADO_Errors_PrimaryKey_1.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_Errors_PrimaryKey_1\obj\Debug\ADO_Errors_PrimaryKey_1.pdb

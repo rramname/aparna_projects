@@ -1,0 +1,7 @@
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_4_AssetDet\bin\Debug\EventDel_4_AssetDet.exe.config
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_4_AssetDet\bin\Debug\EventDel_4_AssetDet.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_4_AssetDet\bin\Debug\EventDel_4_AssetDet.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_4_AssetDet\obj\Debug\EventDel_4_AssetDet.csprojAssemblyReference.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_4_AssetDet\obj\Debug\EventDel_4_AssetDet.csproj.CoreCompileInputs.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_4_AssetDet\obj\Debug\EventDel_4_AssetDet.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_4_AssetDet\obj\Debug\EventDel_4_AssetDet.pdb

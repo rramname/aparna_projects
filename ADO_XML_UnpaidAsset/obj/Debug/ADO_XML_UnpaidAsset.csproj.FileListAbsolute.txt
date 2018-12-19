@@ -1,0 +1,7 @@
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_XML_UnpaidAsset\bin\Debug\ADO_XML_UnpaidAsset.exe.config
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_XML_UnpaidAsset\bin\Debug\ADO_XML_UnpaidAsset.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_XML_UnpaidAsset\bin\Debug\ADO_XML_UnpaidAsset.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_XML_UnpaidAsset\obj\Debug\ADO_XML_UnpaidAsset.csprojAssemblyReference.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_XML_UnpaidAsset\obj\Debug\ADO_XML_UnpaidAsset.csproj.CoreCompileInputs.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_XML_UnpaidAsset\obj\Debug\ADO_XML_UnpaidAsset.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_XML_UnpaidAsset\obj\Debug\ADO_XML_UnpaidAsset.pdb

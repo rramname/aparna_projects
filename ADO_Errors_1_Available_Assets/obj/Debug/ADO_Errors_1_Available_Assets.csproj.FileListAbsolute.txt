@@ -1,0 +1,6 @@
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_Errors_1_Available_Assets\bin\Debug\ADO_Errors_1_Available_Assets.exe.config
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_Errors_1_Available_Assets\bin\Debug\ADO_Errors_1_Available_Assets.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_Errors_1_Available_Assets\bin\Debug\ADO_Errors_1_Available_Assets.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_Errors_1_Available_Assets\obj\Debug\ADO_Errors_1_Available_Assets.csproj.CoreCompileInputs.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_Errors_1_Available_Assets\obj\Debug\ADO_Errors_1_Available_Assets.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_Errors_1_Available_Assets\obj\Debug\ADO_Errors_1_Available_Assets.pdb

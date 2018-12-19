@@ -4,3 +4,4 @@ C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_IndianSuppliers\bin\Debug\Linq_Indi
 C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_IndianSuppliers\bin\Debug\Linq_IndianSuppliers.pdb
 C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_IndianSuppliers\obj\Debug\Linq_IndianSuppliers.exe
 C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_IndianSuppliers\obj\Debug\Linq_IndianSuppliers.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\Linq_IndianSuppliers\obj\Debug\Linq_IndianSuppliers.csprojAssemblyReference.cache

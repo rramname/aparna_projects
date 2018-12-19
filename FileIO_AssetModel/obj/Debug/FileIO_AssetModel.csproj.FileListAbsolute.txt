@@ -1,0 +1,6 @@
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_AssetModel\bin\Debug\FileIO_AssetModel.exe.config
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_AssetModel\bin\Debug\FileIO_AssetModel.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_AssetModel\bin\Debug\FileIO_AssetModel.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_AssetModel\obj\Debug\FileIO_AssetModel.csproj.CoreCompileInputs.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_AssetModel\obj\Debug\FileIO_AssetModel.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_AssetModel\obj\Debug\FileIO_AssetModel.pdb

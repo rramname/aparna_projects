@@ -1,0 +1,7 @@
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDelRef_CC\obj\Debug\EventDelRef_CC.csprojAssemblyReference.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDelRef_CC\obj\Debug\EventDelRef_CC.csproj.CoreCompileInputs.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDelRef_CC\bin\Debug\EventDelRef_CC.exe.config
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDelRef_CC\bin\Debug\EventDelRef_CC.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDelRef_CC\bin\Debug\EventDelRef_CC.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDelRef_CC\obj\Debug\EventDelRef_CC.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDelRef_CC\obj\Debug\EventDelRef_CC.pdb

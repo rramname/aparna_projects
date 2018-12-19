@@ -1,0 +1,6 @@
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_2_User-Role\bin\Debug\ADO_2_User-Role.exe.config
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_2_User-Role\bin\Debug\ADO_2_User-Role.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_2_User-Role\bin\Debug\ADO_2_User-Role.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_2_User-Role\obj\Debug\ADO_2_User-Role.csproj.CoreCompileInputs.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_2_User-Role\obj\Debug\ADO_2_User-Role.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_2_User-Role\obj\Debug\ADO_2_User-Role.pdb

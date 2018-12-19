@@ -1,7 +1,6 @@
 C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_asset\bin\Debug\FileIO_asset.exe.config
 C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_asset\bin\Debug\FileIO_asset.exe
 C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_asset\bin\Debug\FileIO_asset.pdb
-C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_asset\obj\Debug\FileIO_asset.csprojResolveAssemblyReference.cache
 C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_asset\obj\Debug\FileIO_asset.csproj.CoreCompileInputs.cache
 C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_asset\obj\Debug\FileIO_asset.exe
 C:\Rohit\RnD\AparnaProjects\ConsoleApp1\FileIO_asset\obj\Debug\FileIO_asset.pdb

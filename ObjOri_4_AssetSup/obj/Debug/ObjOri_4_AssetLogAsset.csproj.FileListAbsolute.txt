@@ -1,0 +1,7 @@
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ObjOri_4_AssetSup\bin\Debug\ObjOri_4_AssetSup.exe.config
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ObjOri_4_AssetSup\bin\Debug\ObjOri_4_AssetSup.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ObjOri_4_AssetSup\bin\Debug\ObjOri_4_AssetSup.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ObjOri_4_AssetSup\obj\Debug\ObjOri_4_AssetLogAsset.csprojAssemblyReference.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ObjOri_4_AssetSup\obj\Debug\ObjOri_4_AssetLogAsset.csproj.CoreCompileInputs.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ObjOri_4_AssetSup\obj\Debug\ObjOri_4_AssetSup.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ObjOri_4_AssetSup\obj\Debug\ObjOri_4_AssetSup.pdb

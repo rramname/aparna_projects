@@ -1,0 +1,6 @@
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_1_AssetStatus\bin\Debug\ADO_1_AssetStatus.exe.config
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_1_AssetStatus\bin\Debug\ADO_1_AssetStatus.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_1_AssetStatus\bin\Debug\ADO_1_AssetStatus.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_1_AssetStatus\obj\Debug\ADO_1_AssetStatus.csproj.CoreCompileInputs.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_1_AssetStatus\obj\Debug\ADO_1_AssetStatus.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_1_AssetStatus\obj\Debug\ADO_1_AssetStatus.pdb

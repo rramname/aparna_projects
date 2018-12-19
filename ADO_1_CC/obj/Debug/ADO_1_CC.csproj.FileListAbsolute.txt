@@ -1,7 +1,6 @@
 C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_1_CC\bin\Debug\ADO_1_CC.exe.config
 C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_1_CC\bin\Debug\ADO_1_CC.exe
 C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_1_CC\bin\Debug\ADO_1_CC.pdb
-C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_1_CC\obj\Debug\ADO_1_CC.csprojResolveAssemblyReference.cache
 C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_1_CC\obj\Debug\ADO_1_CC.csproj.CoreCompileInputs.cache
 C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_1_CC\obj\Debug\ADO_1_CC.exe
 C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ADO_1_CC\obj\Debug\ADO_1_CC.pdb

@@ -1,7 +1,7 @@
 C:\Rohit\RnD\AparnaProjects\ConsoleApp1\NamedParams_DisplayAssetBasedOnDate\bin\Debug\NamedParams_DisplayAssetBasedOnDate.exe.config
 C:\Rohit\RnD\AparnaProjects\ConsoleApp1\NamedParams_DisplayAssetBasedOnDate\bin\Debug\NamedParams_DisplayAssetBasedOnDate.exe
 C:\Rohit\RnD\AparnaProjects\ConsoleApp1\NamedParams_DisplayAssetBasedOnDate\bin\Debug\NamedParams_DisplayAssetBasedOnDate.pdb
-C:\Rohit\RnD\AparnaProjects\ConsoleApp1\NamedParams_DisplayAssetBasedOnDate\obj\Debug\NamedParams_DisplayAssetBasedOnDate.csprojResolveAssemblyReference.cache
 C:\Rohit\RnD\AparnaProjects\ConsoleApp1\NamedParams_DisplayAssetBasedOnDate\obj\Debug\NamedParams_DisplayAssetBasedOnDate.csproj.CoreCompileInputs.cache
 C:\Rohit\RnD\AparnaProjects\ConsoleApp1\NamedParams_DisplayAssetBasedOnDate\obj\Debug\NamedParams_DisplayAssetBasedOnDate.exe
 C:\Rohit\RnD\AparnaProjects\ConsoleApp1\NamedParams_DisplayAssetBasedOnDate\obj\Debug\NamedParams_DisplayAssetBasedOnDate.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\NamedParams_DisplayAssetBasedOnDate\obj\Debug\NamedParams_DisplayAssetBasedOnDate.csprojAssemblyReference.cache

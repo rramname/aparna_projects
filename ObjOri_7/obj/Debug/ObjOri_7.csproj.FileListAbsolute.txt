@@ -1,0 +1,7 @@
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ObjOri_7\obj\Debug\ObjOri_7.csprojAssemblyReference.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ObjOri_7\obj\Debug\ObjOri_7.csproj.CoreCompileInputs.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ObjOri_7\bin\Debug\ObjOri_7.exe.config
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ObjOri_7\bin\Debug\ObjOri_7.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ObjOri_7\bin\Debug\ObjOri_7.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ObjOri_7\obj\Debug\ObjOri_7.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\ObjOri_7\obj\Debug\ObjOri_7.pdb

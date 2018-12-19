@@ -1,0 +1,7 @@
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\WeakPass\obj\Debug\WeakPass.csprojAssemblyReference.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\WeakPass\obj\Debug\WeakPass.csproj.CoreCompileInputs.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\WeakPass\bin\Debug\WeakPass.exe.config
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\WeakPass\bin\Debug\WeakPass.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\WeakPass\bin\Debug\WeakPass.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\WeakPass\obj\Debug\WeakPass.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\WeakPass\obj\Debug\WeakPass.pdb

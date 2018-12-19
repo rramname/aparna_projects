@@ -1,0 +1,7 @@
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_2_CountAssets\bin\Debug\EventDel_2_CountAssets.exe.config
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_2_CountAssets\bin\Debug\EventDel_2_CountAssets.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_2_CountAssets\bin\Debug\EventDel_2_CountAssets.pdb
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_2_CountAssets\obj\Debug\EventDel_2_CountAssets.csprojAssemblyReference.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_2_CountAssets\obj\Debug\EventDel_2_CountAssets.csproj.CoreCompileInputs.cache
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_2_CountAssets\obj\Debug\EventDel_2_CountAssets.exe
+C:\Rohit\RnD\AparnaProjects\ConsoleApp1\EventDel_2_CountAssets\obj\Debug\EventDel_2_CountAssets.pdb
